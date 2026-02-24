@@ -1,0 +1,11 @@
+# EduCare Bank
+
+node_modules/
+frontend/.next/
+frontend/out/
+*.pyc
+__pycache__/
+backend/db.sqlite3
+.env
+.env.local
+*.env
